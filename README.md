@@ -1,5 +1,5 @@
 # Gerador de QR Code
-Um projeto de gerador de QR Code simples, desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários insiram um texto ou URL e gerem um QR Code correspondente.
+Um projeto simples de gerador de QR Code, desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários insiram um texto ou URL e gerem um QR Code correspondente. Desenvolvido para a prática de minhas habilidades em front-end.
 
 ## 🚀 Funcionalidades
 
